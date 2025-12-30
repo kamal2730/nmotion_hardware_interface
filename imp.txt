@@ -1,0 +1,4 @@
+python3 nmotion_fjt_ros.py
+~/python38/bin/python3.8 nmotion_driver.py 
+python3 joint_state.py
+ros2 run plotjuggler plotjuggler
