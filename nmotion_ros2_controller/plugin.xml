@@ -1,0 +1,6 @@
+<library path="nmotion_ros2_controller">
+  <class
+    name="nmotion_ros2_controller/NMotionSystem"
+    type="nmotion_ros2_controller::NMotionSystem"
+    base_class_type="hardware_interface::SystemInterface"/>
+</library>

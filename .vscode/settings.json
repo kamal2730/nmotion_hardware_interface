@@ -1,0 +1,24 @@
+{
+    "python.autoComplete.extraPaths": [
+        "/home/rm/ws_moveit2_2/install/moveit_configs_utils/lib/python3.10/site-packages",
+        "/home/rm/ws_moveit2_2/install/srdfdom/local/lib/python3.10/dist-packages",
+        "/home/rm/ws_moveit2_2/install/moveit_task_constructor_msgs/local/lib/python3.10/dist-packages",
+        "/home/rm/ws_moveit2_2/install/launch_param_builder/lib/python3.10/site-packages",
+        "/home/rm/filter/install/object_filter_package/lib/python3.10/site-packages",
+        "/home/rm/depth_ws/install/object_filter_package/lib/python3.10/site-packages",
+        "/home/rm/depth_ws/install/tutorial_interfaces/local/lib/python3.10/dist-packages",
+        "/opt/ros/humble/lib/python3.10/site-packages",
+        "/opt/ros/humble/local/lib/python3.10/dist-packages"
+    ],
+    "python.analysis.extraPaths": [
+        "/home/rm/ws_moveit2_2/install/moveit_configs_utils/lib/python3.10/site-packages",
+        "/home/rm/ws_moveit2_2/install/srdfdom/local/lib/python3.10/dist-packages",
+        "/home/rm/ws_moveit2_2/install/moveit_task_constructor_msgs/local/lib/python3.10/dist-packages",
+        "/home/rm/ws_moveit2_2/install/launch_param_builder/lib/python3.10/site-packages",
+        "/home/rm/filter/install/object_filter_package/lib/python3.10/site-packages",
+        "/home/rm/depth_ws/install/object_filter_package/lib/python3.10/site-packages",
+        "/home/rm/depth_ws/install/tutorial_interfaces/local/lib/python3.10/dist-packages",
+        "/opt/ros/humble/lib/python3.10/site-packages",
+        "/opt/ros/humble/local/lib/python3.10/dist-packages"
+    ]
+}
