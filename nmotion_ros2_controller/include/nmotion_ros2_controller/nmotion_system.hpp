@@ -9,6 +9,10 @@
 #include "nmotion_transport/interface.hpp"
 #include "nmotion_transport/usb_interface.hpp"
 
+#include <rclcpp/time.hpp>
+#include <cmath>
+
+
 
 
 namespace nmotion_ros2_controller
@@ -56,6 +60,7 @@ private:
 
   uint32_t node_id_{0};
   std::string device_{"/dev/ttyACM0"};
+
 };
 
 }  // namespace nmotion_ros2_controller

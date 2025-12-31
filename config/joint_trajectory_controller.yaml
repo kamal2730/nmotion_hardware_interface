@@ -1,0 +1,13 @@
+joint_trajectory_controller:
+  ros__parameters:
+    joints:
+      - joint1
+
+    command_interfaces:
+      - position
+
+    state_interfaces:
+      - position
+      - velocity
+
+    allow_partial_joints_goal: false

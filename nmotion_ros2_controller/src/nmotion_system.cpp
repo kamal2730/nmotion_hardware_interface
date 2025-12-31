@@ -95,6 +95,7 @@ NMotionSystem::read(const rclcpp::Time &, const rclcpp::Duration &)
 hardware_interface::return_type
 NMotionSystem::write(const rclcpp::Time &, const rclcpp::Duration &)
 {
+  
   actuator_->setPositionControl(
     static_cast<float>(cmd_pos_ * 180.0 / M_PI),
     90.0f
